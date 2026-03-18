@@ -4,7 +4,7 @@
 
 ---
 
-### /// system_status: active
+### /// 
 
 sup. i'm draxo.
 
@@ -39,5 +39,5 @@ when i'm not deep in a disassembler tearing apart engines for games like cs2 or 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaddyZyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="github stats" />
 </div>
