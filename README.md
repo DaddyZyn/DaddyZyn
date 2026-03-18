@@ -1,26 +1,43 @@
-# draxo.dev
-*reverse engineering // windows internals // kernel dev*
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=draxo.dev;reverse+engineering;kernel+level+dev;breaking+things+apart" alt="Typing SVG" />
+</div>
 
 ---
 
-sup. I'm Draxo. 
+### /// system_status: active
 
-I spend most of my time tearing things apart to see how they work. My main focus right now is on game reverse engineering, building kernel-level cheats, and writing custom drivers. I also build clean ImGui menus and handle the web/panel side of things when I need a solid UI. 
+sup. i'm draxo.
 
-If it runs on Windows, I can probably figure out how to break it, bypass it, or mod it.
+i spend my time operating in the deep end of windows internals. mostly focused on game reverse engineering, writing manual mappers, exploring thread hijacking, and building out kernel-mode drivers. if it's protected, i'm probably figuring out how to bypass it. 
 
-### // what i work with
+when i'm not deep in a disassembler tearing apart engines for games like cs2 or roblox, i'm building clean ImGui menus and tying it all together with custom web panels.
 
-**> low-level & reversing**
+### /// tech_stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,rust,python,lua&theme=dark" alt="core languages" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs&theme=dark" alt="web languages" />
+</div>
+
+<br>
+
+### /// operations
+
+**> low_level**
 * C / C++ / Rust
 * Windows API & Internals
-* Kernel-mode driver development
-* Manual mapping, thread hooking, and memory manipulation
-* IDA / x64dbg / ReClass
+* Kernel driver development (kmdf/wdm)
+* x86/x64 Assembly
+* Reversing tools: IDA Pro, x64dbg, ReClass
 
-**> scripting & web**
-* Python / Lua
-* JS / HTML / CSS (mostly for web panels and custom UIs)
+**> current_research**
+* Advanced manual mapping techniques
+* Undetected thread hijacking 
+* UI/UX for internal menus (ImGui)
 
 ---
-*"if it's in memory, it belongs to me."*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="github stats" />
+</div>
