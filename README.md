@@ -106,13 +106,3 @@ interception across three graphics generations.
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DaddyZyn&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=7ee787" alt="stats" width="400">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaddyZyn&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=12" alt="langs" width="380">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DaddyZyn&hide_border=true&background=00000000&stroke=3d4454&ring=58a6ff&fire=e06c75&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=808898&dates=808898" alt="streak" width="380">
-
-</div>
