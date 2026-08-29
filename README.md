@@ -8,9 +8,7 @@
 
 sup. i'm draxo.
 
-i spend my time operating in the deep end of windows internals. mostly focused on game reverse engineering, writing manual mappers, exploring thread hijacking, and building out kernel-mode drivers. if it's protected, i'm probably figuring out how to bypass it. 
-
-when i'm not deep in a disassembler tearing apart engines for games like cs2 or roblox, i'm building clean ImGui menus and tying it all together with custom web panels.
+i spend my time operating in the deep end of windows internals. mostly focused on reverse engineering.
 
 ### /// tech_stack
 
